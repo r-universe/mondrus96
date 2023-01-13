@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fabisearch"]
+	path = fabisearch
+	url = https://github.com/mondrus96/fabisearch
+	shallow = true
+	registered = true
